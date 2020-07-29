@@ -3076,10 +3076,11 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .txt3 {
 	font-family: Montserrat;
 	font-weight: 400;
-	font-size: 12px;
+    font-size: 25px;
 	line-height: 1.1;
-	color: #ec1d25;
+	color: white;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 .txt4 {
@@ -3387,8 +3388,8 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 -----------------------------------------------------------
 */
 .size1 {
-	width: 135px;
-	height: 40px;
+	width: 150px;
+    height: 70px
 }
 
 .size2 {
@@ -3633,12 +3634,13 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 	overflow: hidden;
 }
 .hov-img-zoom img{
-	width: 100%;
+	width: 110%;
 	-webkit-transition: all 0.6s;
     -o-transition: all 0.6s;
     -moz-transition: all 0.6s;
     transition: all 0.6s;
 }
+
 .hov-img-zoom:hover img {
 	-webkit-transform: scale(1.1);
   	-moz-transform: scale(1.1);

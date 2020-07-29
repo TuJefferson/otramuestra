@@ -525,6 +525,11 @@ input[type="date" i] {
   height: 100%;
 }
 
+.logo-2 > a{
+  display: block;
+  height: 500%;
+}
+
 .logo > a > img {
   width: auto;
   max-height: 100%;
@@ -967,7 +972,7 @@ input[type="date" i] {
 ///////////////////////////////////////////////////////////
 */
 .btn1 {
-  background: white;
+  background: #fc540a;
   border-radius: 10px;
 }
 
@@ -980,7 +985,7 @@ input[type="date" i] {
 ///////////////////////////////////////////////////////////
 */
 .btn3 {
-  background: #111111;
+  background: #fc540a;
   border-radius: 10px;
 }
 
