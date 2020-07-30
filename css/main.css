@@ -513,6 +513,25 @@ input[type="date" i] {
   box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
 }
 
+/*[ Leer mas ]
+-----------------------------------------------------------
+*/
+
+.home-content__scroll {
+  position: absolute;
+  right: 8rem;
+  bottom: 6rem;
+  -webkit-transform: rotate(-90deg) translate3d(100%, 50%, 0);
+  -ms-transform: rotate(-90deg) translate3d(100%, 50%, 0);
+  transform: rotate(-90deg) translate3d(100%, 50%, 0);
+  -webkit-transform-origin: right bottom;
+  -ms-transform-origin: right bottom;
+  transform-origin: right bottom;
+  color: #fff;
+  font-size: 20px;
+}
+
+
 /*[ Logo ]
 -----------------------------------------------------------
 */
