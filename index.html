@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="images/icons/iconCP.png"/>
+	<link rel="icon" type="image/png" href="images/icons/iconCP.ico"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -29,6 +29,12 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="css/util.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
+<style> 
+
+	menu-bajo.header-fixed .main_menu > li > a {color: #222222;}
+
+</style>
+	
 <!--===============================================================================================-->
 </head>
 <body class="animsition">
@@ -59,7 +65,12 @@
 								</li>
 
 								<li>
-									<a style="color: white;" data-glf-cuid="6ebd2ca7-7fe5-42b9-ac10-60aad9ebf579" data-glf-ruid="0bec6271-cba1-4c77-ab68-34f6b6704cb4" script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>Comprar
+									<a  class="menu-bajo"style="font-family: Montserrat;
+									font-weight: 400;
+									font-size: 14px;
+									text-transform: uppercase;
+									color: white;
+									padding: 15px;" data-glf-cuid="6ebd2ca7-7fe5-42b9-ac10-60aad9ebf579" data-glf-ruid="0bec6271-cba1-4c77-ab68-34f6b6704cb4" script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>Comprar
 									
 									</a>
 								</li>
@@ -249,23 +260,25 @@
 						<p class="t-center m-b-22 size3 m-l-r-auto">
 							Parrilla a la leña y al carbón. Pastas caseras, pescados, menu light,
 							Menu ejecutivos de Lunes a Viernes.
-							
-							Av. Díaz Vélez 5401 (Esquina Olaya), Caballito, C.A.B.A.
-							Abierto todos los dias, mediodía y noche.
+						
 						</p>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
 					
 							Av. Díaz Vélez 5401 (Esquina Olaya), Caballito, C.A.B.A.
-							Abierto todos los dias, mediodía y noche.
-						</p>
+							
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
 						
-							
-							Av. Díaz Vélez 5401 (Esquina Olaya), Caballito, C.A.B.A.
 							Abierto todos los dias, mediodía y noche.
-						</p>
+						</p>	
+					
+						<p class="t-center m-b-22 size3 m-l-r-auto">
+						
+					Turno matutino 14:45 am - 15:00 pm <br>
+					Turno nocturno 19:45 pm - 23:00 pm   
+						</p>	
+					
 
 
 						
@@ -354,6 +367,33 @@
 			</div>
 
 		</div>
+
+		<div class="section-signup bg1-pattern p-t-85 p-b-85">
+			<form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
+				<span class="txt5 m-10">
+					Susribete para ser de los primeros en recibir nuestras promociones
+				</span>
+	
+				<div class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
+					<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email-address" placeholder="Email Adrress">
+					<i class="fa fa-envelope ab-r-m m-r-18" aria-hidden="true"></i>
+				</div>
+	
+				<!-- Button3 -->
+				<button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+					Sign-up
+				</button>
+			</form>
+		</div>
+		<!-- Map -->
+		<div class="container">
+			<h3 class="tit7 t-center p-b-62 p-t-105">
+				Alcance de nuestro delivery,		
+				</h3>
+			<div class="map bo8 bo-rad-10 of-hidden">
+				<iframe src="https://www.google.com/maps/d/embed?mid=1MQN8i4cmQHSQSX-wGSdWwHOn0kE" width="1200" height="480"></iframe>
+			</div>
+		</div>
 	</section>
 
 	<!-- Review -->
@@ -361,23 +401,139 @@
 
 
 	<!-- Sign up -->
-	<div class="section-signup bg1-pattern p-t-85 p-b-85">
-		<form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
-			<span class="txt5 m-10">
-				Susribete para ser de los primeros en recibir nuestras promociones
-			</span>
 
-			<div class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
-				<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email-address" placeholder="Email Adrress">
-				<i class="fa fa-envelope ab-r-m m-r-18" aria-hidden="true"></i>
+
+		<!-- Contact form -->
+		<section class="section-contact bg1-pattern p-t-90 p-b-113">
+
+			
+	
+			<div class="container">
+				<h3 class="tit7 t-center p-b-62 p-t-105">
+					Mandanos un mensaje 
+				</h3>
+	
+				<form class="wrap-form-reservation size22 m-l-r-auto">
+					<div class="row">
+						<div class="col-md-4">
+							<!-- Name -->
+							<span class="txt9">
+								Nombre
+							</span>
+	
+							<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
+								<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Nombre">
+							</div>
+						</div>
+	
+						<div class="col-md-4">
+							<!-- Email -->
+							<span class="txt9">
+								Email
+							</span>
+	
+							<div class="wrap-inputemail size12 bo2 bo-rad-10 m-t-3 m-b-23">
+								<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email" placeholder="Email">
+							</div>
+						</div>
+	
+						<div class="col-md-4">
+							<!-- Phone -->
+							<span class="txt9">
+								Telefono
+							</span>
+	
+							<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
+								<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Telefono">
+							</div>
+						</div>
+	
+						<div class="col-12">
+							<!-- Message -->
+							<span class="txt9">
+								Mensaje
+							</span>
+							<textarea class="bo-rad-10 size35 bo2 txt10 p-l-20 p-t-15 m-b-10 m-t-3" name="message" placeholder="Mensaje"></textarea>
+						</div>
+					</div>
+	
+					<div class="wrap-btn-booking flex-c-m m-t-13">
+						<!-- Button3 -->
+						<button type="submit" class="btn3 flex-c-m size36 txt11 trans-0-4">
+							Enviar
+						</button>
+					</div>
+				</form>
+	
+				<div class="row p-t-135">
+					<div class="col-sm-8 col-md-4 col-lg-4 m-l-r-auto p-t-30">
+						<div class="dis-flex m-l-23">
+							<div class="p-r-40 p-t-6">
+								<img src="images/icons/map-icon.png" alt="IMG-ICON">
+							</div>
+	
+							<div class="flex-col-l">
+								<span class="txt5 p-b-10">
+								Ubicacion
+								</span>
+	
+								<span class="txt23 size38">
+									Av. Díaz Vélez 5401 (Esquina Olaya), Caballito, C.A.B.A.
+								</span>
+							</div>
+						</div>
+					</div>
+	
+					<div class="col-sm-8 col-md-3 col-lg-4 m-l-r-auto p-t-30">
+						<div class="dis-flex m-l-23">
+							<div class="p-r-40 p-t-6">
+								<img src="images/icons/phone-icon.png" alt="IMG-ICON">
+							</div>
+	
+	
+							<div class="flex-col-l">
+								<span class="txt5 p-b-10">
+							Telefonos
+								</span>
+	
+								<span class="txt23 size38">
+									<li class="txt14 m-b-14">
+										<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
+										4958-1813 / 3680
+									</li>
+			
+									<li class="txt14 m-b-14">
+										<i class="fa fa-whatsapp fs-16 dis-inline-block size19" aria-hidden="true"></i>
+										11-22362236
+									</li>
+			
+								</span>
+							</div>
+						</div>
+					</div>
+	
+					<div class="col-sm-8 col-md-5 col-lg-4 m-l-r-auto p-t-30">
+						<div class="dis-flex m-l-23">
+							<div class="p-r-40 p-t-6">
+								<img src="images/icons/clock-icon.png" alt="IMG-ICON">
+							</div>
+	
+	
+							<div class="flex-col-l">
+								<span class="txt5 p-b-10">
+									Horario
+								</span>
+	
+								<span class="txt23 size38">
+									12:00 AM – 12:00 PM	<br>Abierto todos los dias, mediodía y noche.
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
-
-			<!-- Button3 -->
-			<button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
-				Sign-up
-			</button>
-		</form>
-	</div>
+		</section>
+	
 
 
 	<!-- Footer -->
