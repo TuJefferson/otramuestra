@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="es-ES">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="La Cocina de Chifin es un restaurant de Carretera ubicado en el km 943 de la Ruta 5 sur. Encontrará platos típicos de la cocina tradicional chilena y especialmente del sur de Chile, todo preparado con ingredientes y productos de primera calidad y de la zona. Plateada al jugo, pastel de papas, porotos con longaniza, pollo asado, chancho borracho, empanadas de carne y queso y mucho más. Atiende desde las 12:00 a 16:00 hrs."/>
+  <meta name="keywords" content="restaurant, ruta 5 sur, chifin, cruce chifin, restorante, comida rapida, cafeteria,&nbsp; pollo asado, carne asada, porotos con longaniza, salmon al horno, pescado frito, empanadas de queso, empanadas de horno, cazuela de vacuno, cazuela de ave, gordas con chucrut, chuletas con pure, cerveza kuntsmann, leche asada, semola con vino, reposteria, cafe, te, bebidas, helados, roscas, wafles, quequitos., "/>
+  <meta name="generator" content="2017.0.3.363"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "menus.css"], "outOfDate":[]};
+</script>
+  
+  <title>www.lacocinadechifin.cl</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=60821363"/>
+  <link rel="stylesheet" type="text/css" href="css/menus.css?crc=3940308858" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script src="https://webfonts.creativecloud.com/coda:n4:all;abel:n4:all.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu4128"><!-- group -->
+     <div class="browser_width" id="u4128-bw">
+      <div id="u4128"><!-- simple frame --></div>
+     </div>
+     <nav class="MenuBar clearfix" id="menuu4129"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u4151"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4152" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4154-4"><!-- content --><p>INICIO</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u4144"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u4147" href="menus.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4150-4"><!-- content --><p>MENUS</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u4137"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4140" href="cafeteria.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4143-4"><!-- content --><p>CAFETERIA</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u4130"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4131" href="cafeteria.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4132-4"><!-- content --><p>EVENTOS</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u4158"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4159" href="contacto.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4160-4"><!-- content --><p>CONTACTO</p></div></a>
+      </div>
+     </nav>
+     <div class="clip_frame" id="u4165"><!-- image -->
+      <img class="block" id="u4165_img" src="images/logo%20chifin%20cocina.png?crc=4013828139" alt="" width="153" height="170"/>
+     </div>
+     <div class="clip_frame" id="u4167"><!-- image -->
+      <img class="block" id="u4167_img" src="images/wifi%20libre.png?crc=3844267889" alt="" width="61" height="59"/>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu1675-4"><!-- group -->
+     <a class="nonblock nontext clearfix grpelem" id="u1675-4" href="http://musefree.com"><!-- content --><p>NUESTRA CARTA DE MENUS</p></a>
+     <div class="SlideShowWidget clearfix HeroFillFrame grpelem" id="slideshowu5096"><!-- none box -->
+      <div class="popup_anchor" id="u5097popup">
+       <div class="SlideShowContentPanel clearfix" id="u5097"><!-- stack box -->
+        <div class="SSSlide clip_frame grpelem" id="u5100"><!-- image -->
+         <img class="ImageInclude" id="u5100_img" data-src="images/img_8870.jpg?crc=4049849779" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="786"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5112"><!-- image -->
+         <img class="ImageInclude" id="u5112_img" data-src="images/interir%203%20sldei.jpg?crc=4043985263" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="734"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5108"><!-- image -->
+         <img class="ImageInclude" id="u5108_img" data-src="images/czuela%20slide.jpg?crc=45583937" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="675"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5110"><!-- image -->
+         <img class="ImageInclude" id="u5110_img" data-src="images/ensalada%20chilenaslide.jpg?crc=504694765" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="715"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5104"><!-- image -->
+         <img class="ImageInclude" id="u5104_img" data-src="images/pan%20amsado%20slide.jpg?crc=3801290438" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="695"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5114"><!-- image -->
+         <img class="ImageInclude" id="u5114_img" data-src="images/chileta%20kassler%20con%20chukrut.jpg?crc=4005444830" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="672"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5106"><!-- image -->
+         <img class="ImageInclude" id="u5106_img" data-src="images/nokis2.jpg?crc=439883729" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="787"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5098"><!-- image -->
+         <img class="ImageInclude" id="u5098_img" data-src="images/pollo%20asado2.jpg?crc=4190319106" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="766"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u5102"><!-- image -->
+         <img class="ImageInclude" id="u5102_img" data-src="images/semola%20cn%20vino%20slide.jpg?crc=3958472681" src="images/blank.gif?crc=4208392903" alt="" data-width="1180" data-height="679"/>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u5139-3popup">
+       <div class="SSPreviousButton clearfix" id="u5139-3"><!-- content -->
+        <p>&nbsp;</p>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u5140-3popup">
+       <div class="SSNextButton clearfix" id="u5140-3"><!-- content -->
+        <p>&nbsp;</p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="colelem" id="u1658"><!-- simple frame --></div>
+    <a class="nonblock nontext clearfix colelem" id="u2798-4" href="http://musefree.com"><!-- content --><p>PLATOS DE FONDO</p></a>
+    <div class="clearfix colelem" id="pu1665"><!-- group -->
+     <div class="clip_frame grpelem" id="u1665"><!-- image -->
+      <img class="block" id="u1665_img" src="images/chileta%20kassler-crop-u1665.jpg?crc=4146652513" alt="" width="301" height="191"/>
+     </div>
+     <div class="clearfix grpelem" id="u1669"><!-- group -->
+      <div class="clip_frame clearfix grpelem" id="u1676"><!-- image -->
+       <img class="position_content" id="u1676_img" src="images/lasana%20chifin.jpg?crc=38759070" alt="" width="340" height="190"/>
+      </div>
+     </div>
+     <div class="grpelem" id="u1688"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="u1684"><!-- group -->
+      <div class="clip_frame grpelem" id="u1672"><!-- image -->
+       <img class="block" id="u1672_img" src="images/pescado%20frito-crop-u1672.jpg?crc=50853232" alt="" width="299" height="191"/>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu1678-4"><!-- group -->
+     <div class="clearfix grpelem" id="u1678-4"><!-- content -->
+      <p>Lasaña a la chilena</p>
+     </div>
+     <div class="clearfix grpelem" id="u1683-4"><!-- content -->
+      <p>CHULETA KASSLER CON CHUcRUT</p>
+     </div>
+     <div class="clearfix grpelem" id="u1686-4"><!-- content -->
+      <p>PESCADO FRITO</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu1660-4"><!-- group -->
+     <div class="clearfix grpelem" id="u1660-4"><!-- content -->
+      <p>Preparada a la manera sureña, con carne de primera , queso Rafulco y&nbsp; masa casera.</p>
+     </div>
+     <div class="clearfix grpelem" id="u1680-4"><!-- content -->
+      <p>Chuletas kassler ahumadas &quot;Llanquihue&quot;, acompañadas de chucrut y papas cocidas al vapor.</p>
+     </div>
+     <div class="clearfix grpelem" id="u1685-4"><!-- content -->
+      <p>Cuando haya disponibilidad, encontrará pescado frito, con acompañamiento a elección.</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="ppu1681"><!-- group -->
+     <div class="clearfix grpelem" id="pu1681"><!-- group -->
+      <div class="clip_frame clearfix grpelem" id="u1681"><!-- image -->
+       <img class="position_content" id="u1681_img" src="images/pollo%20asado%201.jpg?crc=3940071888" alt="" width="318" height="209"/>
+      </div>
+      <div class="grpelem" id="u1674"><!-- simple frame --></div>
+     </div>
+     <div class="clip_frame grpelem" id="u1661"><!-- image -->
+      <img class="block" id="u1661_img" src="images/gordas%20con%20chukrut-crop-u1661.jpg?crc=3772153371" alt="" width="299" height="194"/>
+     </div>
+     <div class="clip_frame grpelem" id="u1663"><!-- image -->
+      <img class="block" id="u1663_img" src="images/nokis1-crop-u1663.jpg?crc=120469497" alt="" width="301" height="190"/>
+     </div>
+     <div class="grpelem" id="u1689"><!-- simple frame --></div>
+     <div class="grpelem" id="u1667"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="pu4782"><!-- group -->
+     <div class="clip_frame grpelem" id="u4782"><!-- image -->
+      <img class="block" id="u4782_img" src="images/morrron-crop-u4782.jpg?crc=3859136320" alt="" width="118" height="705"/>
+     </div>
+     <div class="clearfix grpelem" id="pu1659-4"><!-- column -->
+      <div class="clearfix colelem" id="u1659-4"><!-- content -->
+       <p>ÑOQUIS A LA CHILENA</p>
+      </div>
+      <div class="clearfix colelem" id="u1687-4"><!-- content -->
+       <p>Un delicioso plato ya tradicional en el sur de Chile, ñoquis, acompañados de una salsa de tomates con carne molida y queso granulado Rafulco.</p>
+      </div>
+      <div class="clearfix colelem" id="u2897"><!-- group -->
+       <div class="clip_frame grpelem" id="u2906"><!-- image -->
+        <img class="block" id="u2906_img" src="images/cazuela%20ave1-crop-u2906.jpg?crc=3775550761" alt="" width="301" height="190"/>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u2807-4"><!-- content -->
+       <p>CAZUELA DE AVE</p>
+      </div>
+      <div class="clearfix colelem" id="u2810-4"><!-- content -->
+       <p>Preparado a la manera tradicional m con papas cocidas verduras , choclo y zapallo.</p>
+      </div>
+      <div class="clearfix colelem" id="pu2956"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u2956"><!-- image -->
+        <img class="position_content" id="u2956_img" src="images/pastel%20de%20papas.jpg?crc=205292163" alt="" width="307" height="203"/>
+       </div>
+       <div class="grpelem" id="u2861"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="pu1670-5"><!-- column -->
+      <div class="clearfix colelem" id="u1670-5"><!-- content -->
+       <p><span id="u1670">​</span><span class="actAsInlineDiv normal_text" id="u4754"><!-- content --><span class="actAsDiv clearfix excludeFromNormalFlow" id="u4752-4"><!-- content --><span class="actAsPara">POLLO ASADO CON PURÉ DE PAPAS</span></span></span><span></span></p>
+      </div>
+      <div class="clearfix colelem" id="u1671-4"><!-- content -->
+       <p>1/ 4&nbsp; de pollo asado al horno a leña lentamente ,&nbsp; para un resultado sabroso y crocante acompañado de puré de papas, o a elección.</p>
+      </div>
+      <div class="clearfix colelem" id="u2898"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u2926"><!-- image -->
+        <img class="position_content" id="u2926_img" src="images/cazuela%20vaacuno3.jpg?crc=299388075" alt="" width="300" height="203"/>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u2808-4"><!-- content -->
+       <p>CAZUELA DE VACUNO</p>
+      </div>
+      <div class="clearfix colelem" id="u2811-4"><!-- content -->
+       <p>Preparado a la manera tradicional m con papas cocidas verduras , choclo y zapallo.</p>
+      </div>
+      <div class="clip_frame colelem" id="u2989"><!-- image -->
+       <img class="block" id="u2989_img" src="images/plateada1-crop-u2989.jpg?crc=4153376980" alt="" width="301" height="190"/>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="pu1679-4"><!-- column -->
+      <div class="clearfix colelem" id="u1679-4"><!-- content -->
+       <p>GORDAS CON CHUcRUT</p>
+      </div>
+      <div class="clearfix colelem" id="u1668-4"><!-- content -->
+       <p>Deliciosas gordas &quot;Llanquihue&quot; con chucrut y acompañadas&nbsp; de papas cocidas al vapor.</p>
+      </div>
+      <div class="clearfix colelem" id="u2899"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u2946"><!-- image -->
+        <img class="position_content" id="u2946_img" src="images/porotos%20con%20longaniza.jpg?crc=3805474444" alt="" width="300" height="196"/>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u2809-4"><!-- content -->
+       <p>POROTOS CON LONGANIZA</p>
+      </div>
+      <div class="clearfix colelem" id="u2812-4"><!-- content -->
+       <p>Pruebe nuestros porotos con rienda y longaniza . un plato típico de invierno muy rico.</p>
+      </div>
+      <div class="clearfix colelem" id="pu2979"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u2979"><!-- image -->
+        <img class="position_content" id="u2979_img" src="images/cerdo%20asado.jpg?crc=4144445494" alt="" width="302" height="201"/>
+       </div>
+       <div class="grpelem" id="u2863"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu2855-4"><!-- group -->
+     <div class="clearfix grpelem" id="u2855-4"><!-- content -->
+      <p>Oastel de papas con carne</p>
+     </div>
+     <div class="clearfix grpelem" id="u2856-4"><!-- content -->
+      <p>PLATEADA&nbsp; al jugo</p>
+     </div>
+     <div class="clearfix grpelem" id="u2857-4"><!-- content -->
+      <p>CERDO ASADO</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu2858-4"><!-- group -->
+     <div class="clearfix grpelem" id="u2858-4"><!-- content -->
+      <p>Tradicional plato criollo, pastel de papas con carne molida.</p>
+     </div>
+     <div class="clearfix grpelem" id="u2859-4"><!-- content -->
+      <p>Una de nuestras especialidades, carne de res al jugo,&nbsp; acompañada con puré.</p>
+     </div>
+     <div class="clearfix grpelem" id="u2860-4"><!-- content -->
+      <p>Asado de cerdo al horno . Rico sabroso y crocante. Acompañamiento a elección</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu4792"><!-- group -->
+     <div class="clip_frame clearfix grpelem" id="u4792"><!-- image -->
+      <img class="position_content" id="u4792_img" src="images/ajos.jpg?crc=95090934" alt="" width="478" height="461"/>
+     </div>
+     <div class="clip_frame clearfix grpelem" id="u3146"><!-- image -->
+      <img class="position_content" id="u3146_img" src="images/ensalada%20chilena.jpg?crc=4123395532" alt="" width="316" height="211"/>
+     </div>
+     <div class="clip_frame clearfix grpelem" id="u3156"><!-- image -->
+      <img class="position_content" id="u3156_img" src="images/images.jpg?crc=4269954696" alt="" width="300" height="200"/>
+     </div>
+     <div class="clip_frame clearfix grpelem" id="u3179"><!-- image -->
+      <img class="position_content" id="u3179_img" src="images/enslada%20estacion.jpg?crc=346476321" alt="" width="315" height="220"/>
+     </div>
+     <div class="grpelem" id="u3197"><!-- simple frame --></div>
+     <div class="grpelem" id="u3198"><!-- simple frame --></div>
+     <div class="grpelem" id="u3199"><!-- simple frame --></div>
+     <a class="nonblock nontext clearfix grpelem" id="u3204-4" href="http://musefree.com"><!-- content --><p>ENSALADAS</p></a>
+     <div class="grpelem" id="u3240"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="u5501-6"><!-- content -->
+      <p><span id="u5501">Alternativas de acompañamiento:</span></p>
+      <p><span id="u5501-3">papas salteadas, papas cocidas al vapor, puré de papas, arroz blanco.</span></p>
+     </div>
+     <div class="clip_frame clearfix grpelem" id="u5607"><!-- image -->
+      <img class="position_content" id="u5607_img" src="images/panqueques%20con%20papas%20fritas002.jpg?crc=3883159312" alt="" width="317" height="197"/>
+     </div>
+     <div class="clearfix grpelem" id="u5609-4"><!-- content -->
+      <p>PANQUEQUES RELLENOS CON pollo</p>
+     </div>
+     <div class="clearfix grpelem" id="u5610-4"><!-- content -->
+      <p>CHANCHO BORRACHO</p>
+     </div>
+     <div class="clearfix grpelem" id="u5612-4"><!-- content -->
+      <p>Delicioso panqueque relleno con pechuga de pollo cocida y&nbsp; picada, queso Rafulco derretido, acompañado de papas fritas.</p>
+     </div>
+     <div class="clearfix grpelem" id="u5613-4"><!-- content -->
+      <p>Deliciosa pulpa de cerdo cocinada en vino blanco, con zanahorias, cebollas , especias, acompañada de arroz blanco.</p>
+     </div>
+     <div class="grpelem" id="u5615"><!-- simple frame --></div>
+     <div class="clip_frame grpelem" id="u5617"><!-- image -->
+      <img class="block" id="u5617_img" src="images/cerdo%20estofado%20arroz002-crop-u5617.jpg?crc=228411271" alt="" width="301" height="190"/>
+     </div>
+     <div class="grpelem" id="u5619"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="u5676-4"><!-- content -->
+      <p>SALMON AL HORNO</p>
+     </div>
+     <div class="clearfix grpelem" id="u5677-4"><!-- content -->
+      <p>Salmón al horno, con especias, acompañamiento a elección.</p>
+     </div>
+     <div class="clearfix grpelem" id="u5678"><!-- group -->
+      <div class="clip_frame clearfix grpelem" id="u5685"><!-- image -->
+       <img class="position_content" id="u5685_img" src="images/salmon%20al%20horno.jpg?crc=4284969723" alt="" width="303" height="203"/>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu3191-4"><!-- group -->
+     <div class="clearfix grpelem" id="u3191-4"><!-- content -->
+      <p>ENSALADA A LA CHILENA</p>
+     </div>
+     <div class="clearfix grpelem" id="u3192-4"><!-- content -->
+      <p>ENSALADA SURTIDA de la estacion</p>
+     </div>
+     <div class="clearfix grpelem" id="u3193-4"><!-- content -->
+      <p>ENSALADA LECHUGAS TOMATE</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu3194-4"><!-- group -->
+     <div class="clearfix grpelem" id="u3194-4"><!-- content -->
+      <p>Rica ensalada de tomates con cebolla y cilantro.</p>
+     </div>
+     <div class="clearfix grpelem" id="u3195-4"><!-- content -->
+      <p>Ensalada surtida de la estación con huevos de codorniz si hay disponibilidad.</p>
+     </div>
+     <div class="clearfix grpelem" id="u3196-4"><!-- content -->
+      <p>Ensalada de Lechugas con tomate y verduras de la estación con cilantro.</p>
+     </div>
+    </div>
+    <div class="browser_width colelem" id="u1932-bw">
+     <div id="u1932"><!-- group -->
+      <div class="clearfix" id="u1932_align_to_page">
+       <div class="clearfix grpelem" id="pu1928-4"><!-- column -->
+        <div class="counter clearfix colelem" id="u1928-4"><!-- content -->
+         <p>lunes a sabado</p>
+        </div>
+        <div class="clearfix colelem" id="u1930-4"><!-- content -->
+         <p>12:00 a 16:00 horas</p>
+        </div>
+       </div>
+       <div class="clearfix grpelem" id="pu1933-4"><!-- column -->
+        <a class="nonblock nontext counter clearfix colelem" id="u1933-4" href="Tel:+56965895596"><!-- content --><p>FONO&nbsp; +56965895596</p></a>
+        <div class="clearfix colelem" id="u1929-4"><!-- content -->
+         <p>RESERVAS</p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u3176"><!-- column -->
+     <a class="nonblock nontext clearfix colelem" id="u3014-4" href="http://musefree.com"><!-- content --><p>POSTRES</p></a>
+     <div class="clearfix colelem" id="ppu3050"><!-- group -->
+      <div class="clearfix grpelem" id="pu3050"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u3050"><!-- image -->
+        <img class="position_content" id="u3050_img" src="images/mote%20chuesillos1.jpg?crc=4060413974" alt="" width="288" height="210"/>
+       </div>
+       <div class="grpelem" id="u3008"><!-- simple frame --></div>
+      </div>
+      <div class="clip_frame clearfix grpelem" id="u3077"><!-- image -->
+       <img class="position_content" id="u3077_img" src="images/postre%20arroz%20con%20leche.jpg?crc=4269807259" alt="" width="301" height="218"/>
+      </div>
+      <div class="clip_frame grpelem" id="u3062"><!-- image -->
+       <img class="block" id="u3062_img" src="images/semola%20c%20vino2-crop-u3062.jpg?crc=3822635085" alt="" width="303" height="191"/>
+      </div>
+      <div class="grpelem" id="u3007"><!-- simple frame --></div>
+      <div class="grpelem" id="u3009"><!-- simple frame --></div>
+     </div>
+     <div class="clearfix colelem" id="pu3001-4"><!-- group -->
+      <div class="clearfix grpelem" id="u3001-4"><!-- content -->
+       <p>SEMOLA CON SALSA DE VINO</p>
+      </div>
+      <div class="clearfix grpelem" id="u3002-4"><!-- content -->
+       <p>MOTE CON HUESILLOS</p>
+      </div>
+      <div class="clearfix grpelem" id="u3003-4"><!-- content -->
+       <p>ARROZ CON LECHE</p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu3004-4"><!-- group -->
+      <div class="clearfix grpelem" id="u3004-4"><!-- content -->
+       <p>Exquisita sémola con leche acompañada con salsa de vino crema y un toque de choccolate</p>
+      </div>
+      <div class="clearfix grpelem" id="u3005-4"><!-- content -->
+       <p>El tradicional postre chileno pero esta vez es mote de trigo cocido y sabrosos huesillos.</p>
+      </div>
+      <div class="clearfix grpelem" id="u3006-4"><!-- content -->
+       <p>Arroz cocido en leche con palitos de canela</p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu3055"><!-- group -->
+      <div class="clip_frame clearfix grpelem" id="u3055"><!-- image -->
+       <img class="position_content" id="u3055_img" src="images/leche%20asada%201.jpg?crc=5128396" alt="" width="304" height="203"/>
+      </div>
+      <div class="clip_frame grpelem" id="u3136"><!-- image -->
+       <img class="block" id="u3136_img" src="images/suspiro%20chifin-crop-u3136.jpg?crc=4175755567" alt="" width="300" height="191"/>
+      </div>
+      <div class="clip_frame clearfix grpelem" id="u3126"><!-- image -->
+       <img class="position_content" id="u3126_img" src="images/helado%20maqina%202.jpg?crc=222584847" alt="" width="344" height="191"/>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu3094-4"><!-- group -->
+      <div class="clearfix grpelem" id="u3094-4"><!-- content -->
+       <p>LECHE ASADA</p>
+      </div>
+      <div class="clearfix grpelem" id="u3102-4"><!-- content -->
+       <p>Suspiro CRIOLLO</p>
+      </div>
+      <div class="clearfix grpelem" id="u3115-4"><!-- content -->
+       <p>HELADO</p>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu3095-4"><!-- group -->
+      <div class="clearfix grpelem" id="u3095-4"><!-- content -->
+       <p>Un postre tradicional del sur, acompañado con caramelo y un toque de crema y chocolate.</p>
+      </div>
+      <div class="clearfix grpelem" id="u3103-4"><!-- content -->
+       <p>Este delicioso postre tradicional chileno es una combinación de manjar de campo Rafulco, ron, leche , maicena y azúcar. Con un toque de crema y chocolate.</p>
+      </div>
+      <div class="clearfix grpelem" id="u3116-4"><!-- content -->
+       <p>Helado de vainilla, chocolate , frutilla, servido en cono de galleta.</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu1709-4"><!-- group -->
+     <div class="clearfix grpelem" id="u1709-4"><!-- content -->
+      <p>contactenos</p>
+     </div>
+     <div class="grpelem" id="u1691"><!-- simple frame --></div>
+     <div class="browser_width grpelem" id="u1943-bw">
+      <div id="u1943"><!-- column -->
+       <div class="clearfix" id="u1943_align_to_page">
+        <div class="clearfix colelem" id="u1945-4"><!-- content -->
+         <p>ALTERNATIVAS Menú del día</p>
+        </div>
+        <div class="clearfix colelem" id="pu1950"><!-- group -->
+         <div class="clip_frame grpelem" id="u1950"><!-- image -->
+          <img class="block" id="u1950_img" src="images/fondos%20menues.png?crc=4115091292" alt="" width="888" height="430"/>
+         </div>
+         <div class="clearfix grpelem" id="u1949-4"><!-- content -->
+          <p>$5200</p>
+         </div>
+         <div class="clearfix grpelem" id="u1941-6"><!-- content -->
+          <p>por persona.</p>
+          <p>Incluye</p>
+         </div>
+         <div class="Heading clearfix grpelem" id="u1948-4"><!-- content -->
+          <h2>MENÚ LA COCINA DE CHIFÍN</h2>
+         </div>
+         <a class="nonblock nontext Heading clearfix grpelem" id="u1940-4" href="http://musefree.com"><!-- content --><h2>MenÚ LA Cocina de ChifÍn</h2></a>
+         <div class="Text clearfix grpelem" id="u1938-6"><!-- content -->
+          <p>Pan amasado, mantequilla Rafulco, ensalada, Plato de fondo con agregado</p>
+          <p>Postre casero</p>
+         </div>
+         <div class="clearfix grpelem" id="u1942-4"><!-- content -->
+          <p>$5700</p>
+         </div>
+         <div class="clearfix grpelem" id="u1944-6"><!-- content -->
+          <p>por persona.</p>
+          <p>Incluye</p>
+         </div>
+         <div class="Text clearfix grpelem" id="u1937-8"><!-- content -->
+          <p>Pan amasado , mantequilla Rafulco, ensalada, Plato de fondo con agregado</p>
+          <p>Postre casero</p>
+          <p>Bebida</p>
+         </div>
+        </div>
+        <a class="nonblock nontext counter clearfix colelem" id="u1931-4" href="Tel:+56965895596"><!-- content --><p>FONO&nbsp; +56965895596</p></a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="4511" data-content-above-spacer="4510" data-content-below-spacer="169"></div>
+    <div class="browser_width colelem" id="u1939-bw">
+     <div id="u1939"><!-- group -->
+      <div class="clearfix" id="u1939_align_to_page">
+       <div class="clearfix grpelem" id="u1946-6"><!-- content -->
+        <p><span id="u1946">​</span><span class="actAsInlineDiv normal_text" id="u4723"><!-- content --><span class="actAsDiv clearfix excludeFromNormalFlow" id="u4721-18"><!-- content --><span class="actAsPara"><a class="nonblock" href="index.html"><span id="u4721">INICIO</span></a></span><span class="actAsPara"><a class="nonblock" href="menus.html"><span id="u4721-4">MENUS</span></a></span><span class="actAsPara"><a class="nonblock" href="cafeteria.html"><span id="u4721-7">CAFETERIA Y SALA DE VENTAS</span></a></span><span class="actAsPara"><a class="nonblock" href="eventos.html"><span id="u4721-10">EVENTOS</span></a></span><span class="actAsPara"><a class="nonblock" href="contacto.html"><span id="u4721-13">CONTACTO</span></a></span><span class="actAsPara">&nbsp;</span></span></span><span></span></p>
+        <p>&nbsp;</p>
+       </div>
+       <div class="clearfix grpelem" id="u1947-11"><!-- content -->
+        <p>Ruta 5 Sur Km. 943 lado este puente Chifin</p>
+        <p>Tel. cel: 965895596 - 998864715</p>
+        <p>E-mail: lacocinadechifin@gmail.com</p>
+        <p>www.lacocinadechifin.cl</p>
+        <p>&nbsp;</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide weather to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu5096', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu5096 */
+$('#u1932').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2875.85]},{"speed":[0,0],"in":[2875.85,Infinity]}]);/* scroll effect */
+$('#u1943').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3816.84]},{"speed":[0,0],"in":[3816.84,Infinity]}]);/* scroll effect */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=85721165" type="text/javascript" async data-main="scripts/museconfig.js?crc=436936948" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   </body>
+</html>

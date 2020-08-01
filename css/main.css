@@ -518,7 +518,7 @@ input[type="date" i] {
 */
 
 .home-content__scroll {
-  position: absolute;
+  position: sticky;
   right: 8rem;
   bottom: 6rem;
   -webkit-transform: rotate(-90deg) translate3d(100%, 50%, 0);
@@ -528,7 +528,7 @@ input[type="date" i] {
   -ms-transform-origin: right bottom;
   transform-origin: right bottom;
   color: #fff;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 
