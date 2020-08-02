@@ -3643,13 +3643,16 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 	overflow: hidden;
 }
 .hov-img-zoom img{
-	height: 250px;
-	width: 370px;
+	height: 160px;
+	width: 280px;
 	-webkit-transition: all 0.6s;
     -o-transition: all 0.6s;
     -moz-transition: all 0.6s;
     transition: all 0.6s;
 }
+
+
+
 
 .hov-img-zoom:hover img {
 	-webkit-transform: scale(1.1);
@@ -3658,6 +3661,8 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
   	-o-transform: scale(1.1);
 	transform: scale(1.1);
 }
+
+
 
 
 
