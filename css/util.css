@@ -1,6 +1,16 @@
 /*[ FONT SIZE ]
 ///////////////////////////////////////////////////////////
 */
+
+.qr{
+
+	position: relative;
+							  width: 115px;
+							  height: 138px;
+							  top: 41px;
+							  left: 91px;
+  }
+  
 .fs-1 {font-size: 1px;}
 .fs-2 {font-size: 2px;}
 .fs-3 {font-size: 3px;}
